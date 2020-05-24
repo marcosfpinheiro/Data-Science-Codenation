@@ -132,3 +132,8 @@ dmypy.json
 main.py
 test_main.py
 *.zip
+
+# My files
+*dontgo.py
+
+
