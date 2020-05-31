@@ -4,13 +4,12 @@ cachedir: .pytest_cache
 rootdir: /home/pinheiro/codenation/data-science-4
 collecting ... collected 7 items
 
-test_submit.py::test_q1 PASSED                                           [ 14%]
-test_submit.py::test_q2 PASSED                                           [ 28%]
-test_submit.py::test_q3 PASSED                                           [ 42%]
-test_submit.py::test_q4 PASSED                                           [ 57%]
-test_submit.py::test_q5 PASSED                                           [ 71%]
-test_submit.py::test_q6 PASSED                                           [ 85%]
-test_submit.py::test_q7 PASSED                                           [100%]
+test_main.py::test_q1 PASSED                                             [ 14%]
+test_main.py::test_q2 PASSED                                             [ 28%]
+test_main.py::test_q3 PASSED                                             [ 42%]
+test_main.py::test_q4 PASSED                                             [ 57%]
+test_main.py::test_q5 PASSED                                             [ 71%]
+test_main.py::test_q6 PASSED                                             [ 85%]
+test_main.py::test_q7 PASSED                                             [100%]
 
---- generated xml file: /home/pinheiro/codenation/data-science-4/output.xml ----
-=========================== 7 passed in 3.67 seconds ===========================
+=========================== 7 passed in 3.65 seconds ===========================
